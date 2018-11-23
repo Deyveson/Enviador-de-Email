@@ -41,7 +41,7 @@
 		    <artifactId>commons-email</artifactId>
 		    <version>1.5</version>
 		</dependency>
-
+	<!-- dependencia para enviar Email -->
 	</dependencies>
 
 	<build>
